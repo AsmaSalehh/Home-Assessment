@@ -1,0 +1,10 @@
+-I
+C:/Users/asma_/Documents/build-AnalogClock-Desktop_Qt_6_6_2_MinGW_64_bit-Debug
+-I
+C:/Qt/6.6.2/mingw_64/./qml
+--resource
+C:/Users/asma_/Documents/build-AnalogClock-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/qmake_AnalogClock.qrc
+--resource
+C:/Users/asma_/Documents/build-AnalogClock-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/appAnalogClock_raw_qml_0.qrc
+--module
+AnalogClock

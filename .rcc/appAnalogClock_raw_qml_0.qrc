@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/AnalogClock/">
+    <file alias="Main.qml">C:/Users/asma_/Documents/AnalogClock/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/asma_/Documents/AnalogClock
+-cmake-output
+-output-file
+C:/Users/asma_/Documents/build-AnalogClock-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appAnalogClock.cmake
+-importPath
+C:/Users/asma_/Documents/build-AnalogClock-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/AnalogClock
+-importPath
+C:/Users/asma_/Documents/build-AnalogClock-Desktop_Qt_6_6_2_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.6.2/mingw_64/./qml
+-qrcFiles
+C:/Users/asma_/Documents/build-AnalogClock-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/qmake_AnalogClock.qrc
+C:/Users/asma_/Documents/build-AnalogClock-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/appAnalogClock_raw_qml_0.qrc

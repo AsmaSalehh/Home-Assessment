@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-89a5ad7fe91514809fa5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AnalogClock",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-0e93368d42d7a4ced738.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-4339f3863492f78cae2e.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-48894500054489ba821e.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-4c039ae60fcd25d3b19b.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnalogClock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnalogClock-Debug-234d53bda058b9e62954.json",
+					"name" : "appAnalogClock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnalogClock_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnalogClock_autogen-Debug-30108418b89ffea727b7.json",
+					"name" : "appAnalogClock_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnalogClock_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnalogClock_autogen_timestamp_deps-Debug-2dfa620e3511bce00bab.json",
+					"name" : "appAnalogClock_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnalogClock_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnalogClock_qmlimportscan-Debug-913560b47efe1a32def7.json",
+					"name" : "appAnalogClock_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnalogClock_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnalogClock_qmllint-Debug-bb519bb162ea4688f959.json",
+					"name" : "appAnalogClock_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnalogClock_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnalogClock_qmllint_json-Debug-83ce2c93d510fee7260b.json",
+					"name" : "appAnalogClock_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnalogClock_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnalogClock_qmllint_module-Debug-a006d6c1794356e76896.json",
+					"name" : "appAnalogClock_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnalogClock_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnalogClock_qmltyperegistration-Debug-fa520b5682fff6e9cc85.json",
+					"name" : "appAnalogClock_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAnalogClock_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAnalogClock_tooling-Debug-157fd202d5b42dbfdb29.json",
+					"name" : "appAnalogClock_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/asma_/Documents/build-AnalogClock-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/asma_/Documents/AnalogClock"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
